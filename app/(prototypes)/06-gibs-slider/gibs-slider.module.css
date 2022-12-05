@@ -1,0 +1,80 @@
+.container{
+    height: 100%;
+    width: 100%;
+
+    display: flex;
+    min-width: 650px;
+}
+
+.content{
+    flex-grow: 1;
+    height: 100%;
+    color: black;
+}
+
+.sidebar{
+    width: 300px;
+    height: 100%;
+    background: var(--blue-100);
+    padding: 8px;
+    padding-top: 16px;
+    display: flex;
+    flex-flow: column;
+    gap: 20px;
+    overflow:hidden;
+}
+
+.SliderLabeled{
+    padding-inline: 8px;
+    display: flex;
+    gap: 10px;
+}
+
+.SliderLabeled > p {
+    font-size: 12px;
+}
+
+
+
+.SliderRoot{
+    position: relative;
+    display: flex;
+    align-items: center;
+    user-select: none;
+    touch-action: none;
+    height: 20px;
+    flex-grow: 1;
+}
+
+.SliderTrack {
+    background-color: rgba(0,0,0,0.7);
+    position: relative;
+    flex-grow: 1;
+    border-radius: 9999px;
+    height: 3px;
+}
+
+.SliderRange {
+    position: absolute;
+    background-color: rgba(0,0,0,0.7);
+    border-radius: 9999px;
+    height: 100%;
+}
+
+.SliderThumb {
+    display: block;
+    width: 20px;
+    height: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+    border-radius: 10px;
+}
+
+.SliderThumb:hover {
+    background-color: lightgray;
+}
+
+.SliderThumb:focus {
+    outline: none;
+    box-shadow: 0 0 0 5px rgba(0,0,0,0.2);
+}

@@ -1,0 +1,1532 @@
+{
+    "Aruba": {
+        "iso": "ABW",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 32,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Afghanistan": {
+        "iso": "AFG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 46,
+        "MODIS_Aqua_L3_NDVI_Monthly": 13,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.8
+    },
+    "Angola": {
+        "iso": "AGO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 47,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Anguilla": {
+        "iso": "AIA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Albania": {
+        "iso": "ALB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 35,
+        "MODIS_Aqua_L3_NDVI_Monthly": 63,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.0
+    },
+    "Aland": {
+        "iso": "ALA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.2
+    },
+    "Andorra": {
+        "iso": "AND",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 66,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "United Arab Emirates": {
+        "iso": "ARE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 53,
+        "MODIS_Aqua_L3_NDVI_Monthly": 10,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.7
+    },
+    "Argentina": {
+        "iso": "ARG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 15,
+        "MODIS_Aqua_L3_NDVI_Monthly": 33,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.5
+    },
+    "Armenia": {
+        "iso": "ARM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 58,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "American Samoa": {
+        "iso": "ASM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 89,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.6
+    },
+    "Antarctica": {
+        "iso": "ATA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": -54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.0
+    },
+    "Ashmore and Cartier Islands": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "French Southern and Antarctic Lands": {
+        "iso": "ATF",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": -1,
+        "MODIS_Aqua_L3_NDVI_Monthly": 15,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.4
+    },
+    "Antigua and Barbuda": {
+        "iso": "ATG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 54,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Australia": {
+        "iso": "AUS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 36,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.9
+    },
+    "Austria": {
+        "iso": "AUT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.4
+    },
+    "Azerbaijan": {
+        "iso": "AZE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 39,
+        "MODIS_Aqua_L3_NDVI_Monthly": 42,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.8
+    },
+    "Burundi": {
+        "iso": "BDI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 55,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Belgium": {
+        "iso": "BEL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Benin": {
+        "iso": "BEN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 62,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.5
+    },
+    "Burkina Faso": {
+        "iso": "BFA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 36,
+        "MODIS_Aqua_L3_NDVI_Monthly": 40,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.0
+    },
+    "Bangladesh": {
+        "iso": "BGD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 63,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.3
+    },
+    "Bulgaria": {
+        "iso": "BGR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.4
+    },
+    "Bahrain": {
+        "iso": "BHR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 49,
+        "MODIS_Aqua_L3_NDVI_Monthly": 15,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.1
+    },
+    "The Bahamas": {
+        "iso": "BHS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 49,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "Bosnia and Herzegovina": {
+        "iso": "BIH",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 75,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.5
+    },
+    "Bajo Nuevo Bank (Petrel Is.)": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Saint Barthelemy": {
+        "iso": "BLM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Belarus": {
+        "iso": "BLR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 77,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.4
+    },
+    "Belize": {
+        "iso": "BLZ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 78,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.7
+    },
+    "Bermuda": {
+        "iso": "BMU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Bolivia": {
+        "iso": "BOL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 55,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.6
+    },
+    "Brazil": {
+        "iso": "BRA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.1
+    },
+    "Barbados": {
+        "iso": "BRB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.4
+    },
+    "Brunei": {
+        "iso": "BRN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 83,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.2
+    },
+    "Bhutan": {
+        "iso": "BTN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 17,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.2
+    },
+    "Botswana": {
+        "iso": "BWA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 30,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Central African Republic": {
+        "iso": "CAF",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 81,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.3
+    },
+    "Canada": {
+        "iso": "CAN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 19,
+        "MODIS_Aqua_L3_NDVI_Monthly": 57,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.8
+    },
+    "Switzerland": {
+        "iso": "CHE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.8
+    },
+    "Chile": {
+        "iso": "CHL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 9,
+        "MODIS_Aqua_L3_NDVI_Monthly": 34,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.8
+    },
+    "China": {
+        "iso": "CHN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 50,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.6
+    },
+    "Ivory Coast": {
+        "iso": "CIV",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.9
+    },
+    "Clipperton Island": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Cameroon": {
+        "iso": "CMR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 74,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.2
+    },
+    "Cyprus No Mans Area": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 47,
+        "MODIS_Aqua_L3_NDVI_Monthly": 27,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Democratic Republic of the Congo": {
+        "iso": "COD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.5
+    },
+    "Republic of Congo": {
+        "iso": "COG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "Cook Islands": {
+        "iso": "COK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 23,
+        "MODIS_Aqua_L3_NDVI_Monthly": 87,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Colombia": {
+        "iso": "COL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 74,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 10.5
+    },
+    "Comoros": {
+        "iso": "COM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.7
+    },
+    "Cape Verde": {
+        "iso": "CPV",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 34,
+        "MODIS_Aqua_L3_NDVI_Monthly": 18,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Costa Rica": {
+        "iso": "CRI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 71,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 9.3
+    },
+    "Coral Sea Islands": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Cuba": {
+        "iso": "CUB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 75,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.7
+    },
+    "Curaçao": {
+        "iso": "CUW",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 50,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Cayman Islands": {
+        "iso": "CYM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Northern Cyprus": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 45,
+        "MODIS_Aqua_L3_NDVI_Monthly": 28,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Cyprus": {
+        "iso": "CYP",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 45,
+        "MODIS_Aqua_L3_NDVI_Monthly": 30,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Czech Republic": {
+        "iso": "CZE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "Germany": {
+        "iso": "DEU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.3
+    },
+    "Djibouti": {
+        "iso": "DJI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 44,
+        "MODIS_Aqua_L3_NDVI_Monthly": 10,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.0
+    },
+    "Dominica": {
+        "iso": "DMA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 86,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.0
+    },
+    "Denmark": {
+        "iso": "DNK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.8
+    },
+    "Dominican Republic": {
+        "iso": "DOM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.1
+    },
+    "Algeria": {
+        "iso": "DZA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 12,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Ecuador": {
+        "iso": "ECU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.4
+    },
+    "Egypt": {
+        "iso": "EGY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 52,
+        "MODIS_Aqua_L3_NDVI_Monthly": 12,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Eritrea": {
+        "iso": "ERI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 41,
+        "MODIS_Aqua_L3_NDVI_Monthly": 19,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.4
+    },
+    "Dhekelia Sovereign Base Area": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 49,
+        "MODIS_Aqua_L3_NDVI_Monthly": 20,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Spain": {
+        "iso": "ESP",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 42,
+        "MODIS_Aqua_L3_NDVI_Monthly": 41,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Estonia": {
+        "iso": "EST",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 80,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.2
+    },
+    "Ethiopia": {
+        "iso": "ETH",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 34,
+        "MODIS_Aqua_L3_NDVI_Monthly": 43,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.9
+    },
+    "Finland": {
+        "iso": "FIN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 20,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.8
+    },
+    "Fiji": {
+        "iso": "FJI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 82,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.6
+    },
+    "Falkland Islands": {
+        "iso": "FLK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 1,
+        "MODIS_Aqua_L3_NDVI_Monthly": 43,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.5
+    },
+    "France": {
+        "iso": "FRA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.3
+    },
+    "Faroe Islands": {
+        "iso": "FRO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 12,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.0
+    },
+    "Federated States of Micronesia": {
+        "iso": "FSM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Gabon": {
+        "iso": "GAB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 67,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.6
+    },
+    "United Kingdom": {
+        "iso": "GBR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.2
+    },
+    "Georgia": {
+        "iso": "GEO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 74,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.2
+    },
+    "Guernsey": {
+        "iso": "GGY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Ghana": {
+        "iso": "GHA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.5
+    },
+    "Gibraltar": {
+        "iso": "GIB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Guinea": {
+        "iso": "GIN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 75,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.3
+    },
+    "Gambia": {
+        "iso": "GMB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 53,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.6
+    },
+    "Guinea Bissau": {
+        "iso": "GNB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 71,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.1
+    },
+    "Equatorial Guinea": {
+        "iso": "GNQ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 71,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "Greece": {
+        "iso": "GRC",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 35,
+        "MODIS_Aqua_L3_NDVI_Monthly": 57,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.1
+    },
+    "Grenada": {
+        "iso": "GRD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 80,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.3
+    },
+    "Greenland": {
+        "iso": "GRL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": -3,
+        "MODIS_Aqua_L3_NDVI_Monthly": 23,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.7
+    },
+    "Guatemala": {
+        "iso": "GTM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.1
+    },
+    "Guam": {
+        "iso": "GUM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 73,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Guyana": {
+        "iso": "GUY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 82,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.2
+    },
+    "Hong Kong S.A.R.": {
+        "iso": "HKG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 63,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.6
+    },
+    "Heard Island and McDonald Islands": {
+        "iso": "HMD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": -4,
+        "MODIS_Aqua_L3_NDVI_Monthly": 1,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Honduras": {
+        "iso": "HND",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.7
+    },
+    "Croatia": {
+        "iso": "HRV",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 70,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.7
+    },
+    "Haiti": {
+        "iso": "HTI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 62,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.1
+    },
+    "Hungary": {
+        "iso": "HUN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 37,
+        "MODIS_Aqua_L3_NDVI_Monthly": 57,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.6
+    },
+    "Indonesia": {
+        "iso": "IDN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 79,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.7
+    },
+    "Isle of Man": {
+        "iso": "IMN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 21,
+        "MODIS_Aqua_L3_NDVI_Monthly": 63,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.4
+    },
+    "India": {
+        "iso": "IND",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 53,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 10.3
+    },
+    "Indian Ocean Territories": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 82,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "British Indian Ocean Territory": {
+        "iso": "IOT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Ireland": {
+        "iso": "IRL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 77,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.4
+    },
+    "Iran": {
+        "iso": "IRN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 51,
+        "MODIS_Aqua_L3_NDVI_Monthly": 13,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.8
+    },
+    "Iraq": {
+        "iso": "IRQ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 55,
+        "MODIS_Aqua_L3_NDVI_Monthly": 12,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Iceland": {
+        "iso": "ISL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 15,
+        "MODIS_Aqua_L3_NDVI_Monthly": 46,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "Israel": {
+        "iso": "ISR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 48,
+        "MODIS_Aqua_L3_NDVI_Monthly": 20,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Italy": {
+        "iso": "ITA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 36,
+        "MODIS_Aqua_L3_NDVI_Monthly": 56,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.1
+    },
+    "Jamaica": {
+        "iso": "JAM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.4
+    },
+    "Jersey": {
+        "iso": "JEY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Jordan": {
+        "iso": "JOR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 12,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Japan": {
+        "iso": "JPN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 81,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.0
+    },
+    "Baykonur Cosmodrome": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 49,
+        "MODIS_Aqua_L3_NDVI_Monthly": 13,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Siachen Glacier": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 12,
+        "MODIS_Aqua_L3_NDVI_Monthly": 8,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.3
+    },
+    "Kazakhstan": {
+        "iso": "KAZ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 42,
+        "MODIS_Aqua_L3_NDVI_Monthly": 29,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.0
+    },
+    "Kenya": {
+        "iso": "KEN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 37,
+        "MODIS_Aqua_L3_NDVI_Monthly": 34,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.8
+    },
+    "Kyrgyzstan": {
+        "iso": "KGZ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 40,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.6
+    },
+    "Cambodia": {
+        "iso": "KHM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.9
+    },
+    "Kiribati": {
+        "iso": "KIR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 36,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.9
+    },
+    "Saint Kitts and Nevis": {
+        "iso": "KNA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 42,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.5
+    },
+    "South Korea": {
+        "iso": "KOR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 78,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.2
+    },
+    "Kosovo": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 74,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.4
+    },
+    "Kuwait": {
+        "iso": "KWT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 9,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Laos": {
+        "iso": "LAO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 79,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 9.5
+    },
+    "Lebanon": {
+        "iso": "LBN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 40,
+        "MODIS_Aqua_L3_NDVI_Monthly": 31,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Liberia": {
+        "iso": "LBR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 82,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.1
+    },
+    "Libya": {
+        "iso": "LBY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 53,
+        "MODIS_Aqua_L3_NDVI_Monthly": 11,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Saint Lucia": {
+        "iso": "LCA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 87,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Liechtenstein": {
+        "iso": "LIE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 79,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.3
+    },
+    "Sri Lanka": {
+        "iso": "LKA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.0
+    },
+    "Lesotho": {
+        "iso": "LSO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 18,
+        "MODIS_Aqua_L3_NDVI_Monthly": 32,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Lithuania": {
+        "iso": "LTU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 75,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.6
+    },
+    "Luxembourg": {
+        "iso": "LUX",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 71,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Latvia": {
+        "iso": "LVA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 21,
+        "MODIS_Aqua_L3_NDVI_Monthly": 80,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.0
+    },
+    "Macao S.A.R": {
+        "iso": "MAC",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 35,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.3
+    },
+    "Saint Martin": {
+        "iso": "MAF",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Morocco": {
+        "iso": "MAR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 47,
+        "MODIS_Aqua_L3_NDVI_Monthly": 14,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Monaco": {
+        "iso": "MCO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 51,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Moldova": {
+        "iso": "MDA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 37,
+        "MODIS_Aqua_L3_NDVI_Monthly": 55,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.6
+    },
+    "Madagascar": {
+        "iso": "MDG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 48,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Maldives": {
+        "iso": "MDV",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 23,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.5
+    },
+    "Mexico": {
+        "iso": "MEX",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 37,
+        "MODIS_Aqua_L3_NDVI_Monthly": 48,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.5
+    },
+    "Marshall Islands": {
+        "iso": "MHL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Macedonia": {
+        "iso": "MKD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.6
+    },
+    "Mali": {
+        "iso": "MLI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 43,
+        "MODIS_Aqua_L3_NDVI_Monthly": 23,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.1
+    },
+    "Malta": {
+        "iso": "MLT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 37,
+        "MODIS_Aqua_L3_NDVI_Monthly": 28,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.3
+    },
+    "Myanmar": {
+        "iso": "MMR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 74,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.6
+    },
+    "Montenegro": {
+        "iso": "MNE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.5
+    },
+    "Mongolia": {
+        "iso": "MNG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 36,
+        "MODIS_Aqua_L3_NDVI_Monthly": 33,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.8
+    },
+    "Northern Mariana Islands": {
+        "iso": "MNP",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 89,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Mozambique": {
+        "iso": "MOZ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Mauritania": {
+        "iso": "MRT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 47,
+        "MODIS_Aqua_L3_NDVI_Monthly": 12,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.0
+    },
+    "Montserrat": {
+        "iso": "MSR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Mauritius": {
+        "iso": "MUS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.8
+    },
+    "Malawi": {
+        "iso": "MWI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 50,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Malaysia": {
+        "iso": "MYS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 81,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.7
+    },
+    "Namibia": {
+        "iso": "NAM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 22,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "New Caledonia": {
+        "iso": "NCL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 79,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.3
+    },
+    "Niger": {
+        "iso": "NER",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 49,
+        "MODIS_Aqua_L3_NDVI_Monthly": 13,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "Norfolk Island": {
+        "iso": "NFK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Nigeria": {
+        "iso": "NGA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 56,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.6
+    },
+    "Nicaragua": {
+        "iso": "NIC",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 77,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.9
+    },
+    "Niue": {
+        "iso": "NIU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 23,
+        "MODIS_Aqua_L3_NDVI_Monthly": 91,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Netherlands": {
+        "iso": "NLD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 67,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.8
+    },
+    "Norway": {
+        "iso": "NOR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 13,
+        "MODIS_Aqua_L3_NDVI_Monthly": 61,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.9
+    },
+    "Nepal": {
+        "iso": "NPL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 56,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.7
+    },
+    "Nauru": {
+        "iso": "NRU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28.1,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.4
+    },
+    "New Zealand": {
+        "iso": "NZL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 7,
+        "MODIS_Aqua_L3_NDVI_Monthly": 67,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.2
+    },
+    "Oman": {
+        "iso": "OMN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 49,
+        "MODIS_Aqua_L3_NDVI_Monthly": 10,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.5
+    },
+    "Pakistan": {
+        "iso": "PAK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 38,
+        "MODIS_Aqua_L3_NDVI_Monthly": 24,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.0
+    },
+    "Panama": {
+        "iso": "PAN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 70,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.5
+    },
+    "Pitcairn Islands": {
+        "iso": "PCN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 52,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Peru": {
+        "iso": "PER",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 62,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.1
+    },
+    "Spratly Islands": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Philippines": {
+        "iso": "PHL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 76,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.0
+    },
+    "Palau": {
+        "iso": "PLW",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 78,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 12.6
+    },
+    "Papua New Guinea": {
+        "iso": "PNG",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 79,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 7.7
+    },
+    "Poland": {
+        "iso": "POL",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.7
+    },
+    "Puerto Rico": {
+        "iso": "PRI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.6
+    },
+    "North Korea": {
+        "iso": "PRK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 81,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.2
+    },
+    "Portugal": {
+        "iso": "PRT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 41,
+        "MODIS_Aqua_L3_NDVI_Monthly": 46,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Paraguay": {
+        "iso": "PRY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 56,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.6
+    },
+    "Palestine": {
+        "iso": "PSE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 45,
+        "MODIS_Aqua_L3_NDVI_Monthly": 22,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "French Polynesia": {
+        "iso": "PYF",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Qatar": {
+        "iso": "QAT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 49,
+        "MODIS_Aqua_L3_NDVI_Monthly": 7,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Romania": {
+        "iso": "ROU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.9
+    },
+    "Russia": {
+        "iso": "RUS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 70,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.3
+    },
+    "Rwanda": {
+        "iso": "RWA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 55,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Western Sahara": {
+        "iso": "ESH",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 50,
+        "MODIS_Aqua_L3_NDVI_Monthly": 8,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Saudi Arabia": {
+        "iso": "SAU",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 10,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.6
+    },
+    "Scarborough Reef": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Sudan": {
+        "iso": "SDN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 48,
+        "MODIS_Aqua_L3_NDVI_Monthly": 20,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.1
+    },
+    "South Sudan": {
+        "iso": "SSD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 70,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.5
+    },
+    "Senegal": {
+        "iso": "SEN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 36,
+        "MODIS_Aqua_L3_NDVI_Monthly": 42,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.7
+    },
+    "Serranilla Bank": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Singapore": {
+        "iso": "SGP",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 60,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.8
+    },
+    "South Georgia and South Sandwich Islands": {
+        "iso": "SGS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": -8,
+        "MODIS_Aqua_L3_NDVI_Monthly": 3,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.9
+    },
+    "Saint Helena": {
+        "iso": "SHN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 20,
+        "MODIS_Aqua_L3_NDVI_Monthly": 42,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Solomon Islands": {
+        "iso": "SLB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 26,
+        "MODIS_Aqua_L3_NDVI_Monthly": 86,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 3.6
+    },
+    "Sierra Leone": {
+        "iso": "SLE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 79,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.1
+    },
+    "El Salvador": {
+        "iso": "SLV",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 81,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.4
+    },
+    "San Marino": {
+        "iso": "SMR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 41,
+        "MODIS_Aqua_L3_NDVI_Monthly": 49,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Somaliland": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 40,
+        "MODIS_Aqua_L3_NDVI_Monthly": 14,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Somalia": {
+        "iso": "SOM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 38,
+        "MODIS_Aqua_L3_NDVI_Monthly": 26,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.7
+    },
+    "Saint Pierre and Miquelon": {
+        "iso": "SPM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 22,
+        "MODIS_Aqua_L3_NDVI_Monthly": 58,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Republic of Serbia": {
+        "iso": "SRB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 33,
+        "MODIS_Aqua_L3_NDVI_Monthly": 70,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.7
+    },
+    "Sao Tome and Principe": {
+        "iso": "STP",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 25,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Suriname": {
+        "iso": "SUR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 85,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 11.0
+    },
+    "Slovakia": {
+        "iso": "SVK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 71,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.5
+    },
+    "Slovenia": {
+        "iso": "SVN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 77,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.6
+    },
+    "Sweden": {
+        "iso": "SWE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 19,
+        "MODIS_Aqua_L3_NDVI_Monthly": 75,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.7
+    },
+    "Swaziland": {
+        "iso": "SWZ",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 56,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Sint Maarten": {
+        "iso": "SXM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Seychelles": {
+        "iso": "SYC",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 23,
+        "MODIS_Aqua_L3_NDVI_Monthly": 69,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.5
+    },
+    "Syria": {
+        "iso": "SYR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 14,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Turks and Caicos Islands": {
+        "iso": "TCA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Chad": {
+        "iso": "TCD",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 46,
+        "MODIS_Aqua_L3_NDVI_Monthly": 27,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.3
+    },
+    "Togo": {
+        "iso": "TGO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 66,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 5.1
+    },
+    "Thailand": {
+        "iso": "THA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 10.0
+    },
+    "Tajikistan": {
+        "iso": "TJK",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 36,
+        "MODIS_Aqua_L3_NDVI_Monthly": 23,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Turkmenistan": {
+        "iso": "TKM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 54,
+        "MODIS_Aqua_L3_NDVI_Monthly": 12,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "East Timor": {
+        "iso": "TLS",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 72,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.2
+    },
+    "Tonga": {
+        "iso": "TON",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.3
+    },
+    "Trinidad and Tobago": {
+        "iso": "TTO",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 77,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.2
+    },
+    "Tunisia": {
+        "iso": "TUN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 52,
+        "MODIS_Aqua_L3_NDVI_Monthly": 15,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Turkey": {
+        "iso": "TUR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 39,
+        "MODIS_Aqua_L3_NDVI_Monthly": 43,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Tuvalu": {
+        "iso": "TUV",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 22,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Taiwan": {
+        "iso": "TWN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 73,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.4
+    },
+    "United Republic of Tanzania": {
+        "iso": "TZA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 32,
+        "MODIS_Aqua_L3_NDVI_Monthly": 48,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Uganda": {
+        "iso": "UGA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 63,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.9
+    },
+    "Ukraine": {
+        "iso": "UKR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 65,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.0
+    },
+    "United States Minor Outlying Islands": {
+        "iso": "UMI",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 23,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Uruguay": {
+        "iso": "URY",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 18,
+        "MODIS_Aqua_L3_NDVI_Monthly": 61,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.0
+    },
+    "United States of America": {
+        "iso": "USA",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 31,
+        "MODIS_Aqua_L3_NDVI_Monthly": 59,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.4
+    },
+    "US Naval Base Guantanamo Bay": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Uzbekistan": {
+        "iso": "UZB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 51,
+        "MODIS_Aqua_L3_NDVI_Monthly": 17,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Vatican": {
+        "iso": "VAT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 0,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Saint Vincent and the Grenadines": {
+        "iso": "VCT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 0,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 6.1
+    },
+    "Venezuela": {
+        "iso": "VEN",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 75,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 10.3
+    },
+    "British Virgin Islands": {
+        "iso": "VGB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 63,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "United States Virgin Islands": {
+        "iso": "VIR",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 28,
+        "MODIS_Aqua_L3_NDVI_Monthly": 68,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Vietnam": {
+        "iso": "VNM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 74,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 8.8
+    },
+    "Vanuatu": {
+        "iso": "VUT",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 87,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 4.5
+    },
+    "Wallis and Futuna": {
+        "iso": "WLF",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 27,
+        "MODIS_Aqua_L3_NDVI_Monthly": 89,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Akrotiri Sovereign Base Area": {
+        "iso": "-99",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 45,
+        "MODIS_Aqua_L3_NDVI_Monthly": 30,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0
+    },
+    "Samoa": {
+        "iso": "WSM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 24,
+        "MODIS_Aqua_L3_NDVI_Monthly": 83,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 2.2
+    },
+    "Yemen": {
+        "iso": "YEM",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 44,
+        "MODIS_Aqua_L3_NDVI_Monthly": 13,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 1.9
+    },
+    "South Africa": {
+        "iso": "ZAF",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 23,
+        "MODIS_Aqua_L3_NDVI_Monthly": 32,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.5
+    },
+    "Zambia": {
+        "iso": "ZMB",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 30,
+        "MODIS_Aqua_L3_NDVI_Monthly": 50,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    },
+    "Zimbabwe": {
+        "iso": "ZWE",
+        "MODIS_Aqua_L3_Land_Surface_Temp_Monthly_Day": 29,
+        "MODIS_Aqua_L3_NDVI_Monthly": 41,
+        "GLDAS_Surface_Total_Precipitation_Rate_Monthly": 0.4
+    }
+}

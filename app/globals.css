@@ -1,0 +1,111 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+* {
+  margin: 0;
+}
+
+html, body {
+  height: 100%;
+  font-size: 14px;
+}
+
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  overscroll-behavior: none;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+p, h1, h2, h3, h4, h5, h6 {
+  overflow-wrap: break-word;
+}
+
+[data-nextjs-scroll-focus-boundary] {
+  height:100%;
+}
+
+:root{
+  --black: #000000;
+  --white: #FFFFFF;
+
+  --gray-100: #F1F1F1;
+  --gray-300: #D4D4D4;
+  --gray-500: #B3B3B3;
+  --gray-700: #606060;
+
+  --orange-100: #FEDFC2;
+  --orange-300: #FFB46E;
+  --orange-500: #FF8D24;
+  --orange-700: #9D4C00;
+
+  --yellow-100: #FFF4CC;
+  --yellow-300: #FEDE69;
+  --yellow-500: #FAC400;
+  --yellow-700: #8A6C00;
+
+  --green-100: #E9F5D6;
+  --green-300: #C4EE7F;
+  --green-500: #90C738;
+  --green-700: #567722;
+
+  --blue-100: #E1F4FA;
+  --blue-300: #8ED4EA;
+  --blue-500: #4AB8D9;
+  --blue-700: #27748B;
+
+  --purple-100: #EBE8FC;
+  --purple-300: #BAB1F6;
+  --purple-500: #8E82D9;
+  --purple-700: #6757CB;
+
+  --pink-100: #9E0071;
+  --pink-300: #D86BB9;
+  --pink-500: #F5B1E2;
+  --pink-700: #FBDFF3;
+  
+  --red-100: #FFE8E9;
+  --red-300: #FF9BA2;
+  --red-500: #EC525B;
+  --red-700: #991B23;
+}
+
+h3{
+  font-size: 1.25rem;
+  font-weight: 500;
+}
+
+h2{
+  font-size: 1.57rem;
+  font-weight: 500;
+}
+
+h1{
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+p{
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+
+/* @media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+} */

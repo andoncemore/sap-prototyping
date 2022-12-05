@@ -1,0 +1,35 @@
+.toggle{
+    all:unset;
+    color: var(--gray-500);
+    height: 40px;
+    aspect-ratio: 1 / 1;
+    border-radius: 100px;
+    display: flex;
+    align-items:center;
+    justify-content:center;
+    background: var(--gray-100);
+    transition: background 0.1s ease-in-out, color 0.1s ease-in-out, transform 0.1s ease-in-out;
+}
+
+.toggle:hover{
+    background: var(--purple-100);
+    color: var(--purple-700);
+}
+
+.toggle:active{
+    transform: scale(0.9);
+}
+
+.toggle:focus{
+    box-shadow: 0 0 0 2px var(--purple-500);
+}
+
+.toggle > svg{
+    height: 60%;
+    width: 60%;
+}
+
+.toggle[data-state='on'] {
+    background: var(--purple-100);
+    color: var(--purple-700);
+}
